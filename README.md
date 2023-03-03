@@ -2,7 +2,7 @@
 
 ---
 
-##(CREATE, UPDATE, DELETE) Operator Pratic
+## (CREATE, UPDATE, DELETE) Operator Pratic
 
 ---
 
@@ -12,11 +12,11 @@
 
 3. Sütunların her birine göre diğer sütunları güncelleyecek 5 adet UPDATE işlemi yapalım.
 
-4.Sütunların her birine göre ilgili satırı silecek 5 adet DELETE işlemi yapalım.
+4. Sütunların her birine göre ilgili satırı silecek 5 adet DELETE işlemi yapalım.
 
 ---
 
-![SQL-8](http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/SQL-Update.jpg)
+![SQL-8](https://www.frevvo.com/blog/wp-content/uploads/2020/01/Frevvo-populating-HTML-form-HERO-1024x542.png)
 
 ---
 
@@ -28,4 +28,6 @@ www.patika.dev
 
 ---
 
-[https://app.patika.dev/ruzgiiar](Patika.dev Profilimi Görmek için Tıklayınız.👀)
+[Patika.dev Profilimi Görmek için Tıklayınız.👀](https://app.patika.dev/ruzgiiar)
+
+---
